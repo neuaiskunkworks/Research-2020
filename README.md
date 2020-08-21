@@ -7,6 +7,8 @@
 
 - [Model_interepretability.pdf](https://github.com/neuaiskunkworks/Research-2020/blob/master/Model_interepretability.pdf)
 
+- [Greifer AutoRL](https://github.com/neuaiskunkworks/Research-2020/blob/master/Greifer%20AutoRL.pdf)
+
 This repository contains brief description of ongoing research at AI Skunkworks.
 
 Please go through the document attached for various research topics to get started and contact research heads for further information.
