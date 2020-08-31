@@ -1,5 +1,5 @@
 # Research-2020
-#### Current Research under AI Skunkworks are defined and explained in the above PDFs. Kindly refer the same and feel free to connect with the respctive coordinators mentioned in the document.
+#### Current Research under AI Skunkworks are defined and explained in the above PDFs. Kindly refer the same and feel free to connect with the respective coordinators mentioned in the document.
 
 
 - [Causal Inference.pdf](https://github.com/neuaiskunkworks/Research-2020/blob/master/Causal%20Inference.pdf)
