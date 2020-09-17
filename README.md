@@ -18,8 +18,10 @@ Please go through the document attached for various research topics to get start
 
 Please note microsoft teams will be the mode of communication for 'Model interpretability' and 'Greifer AutoRL':
 
-Model interpretability - https://teams.microsoft.com/l/channel/19%3a37e239adcac340f7997a8f85cf973742%40thread.tacv2/Model_Interpretability?groupId=a3f4c2cc-bf92-475f-80b4-dd4c27aa5cd1&tenantId=a8eec281-aaa3-4dae-ac9b-9a398b9215e7
+Model interpretability - 
+https://teams.microsoft.com/l/channel/19%3a37e239adcac340f7997a8f85cf973742%40thread.tacv2/Model_Interpretability?groupId=a3f4c2cc-bf92-475f-80b4-dd4c27aa5cd1&tenantId=a8eec281-aaa3-4dae-ac9b-9a398b9215e7
 
-Auto RL - https://teams.microsoft.com/l/channel/19%3af1f41493b7dd4d7fa1dc4f809d9b5604%40thread.tacv2/Auto-Reinforcement-Learning?groupId=a3f4c2cc-bf92-475f-80b4-dd4c27aa5cd1&tenantId=a8eec281-aaa3-4dae-ac9b-9a398b9215e7
+Auto RL - 
+https://teams.microsoft.com/l/channel/19%3af1f41493b7dd4d7fa1dc4f809d9b5604%40thread.tacv2/Auto-Reinforcement-Learning?groupId=a3f4c2cc-bf92-475f-80b4-dd4c27aa5cd1&tenantId=a8eec281-aaa3-4dae-ac9b-9a398b9215e7
 
 ### Thank you!
