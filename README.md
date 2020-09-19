@@ -16,7 +16,7 @@ Please go through the document attached for various research topics to get start
 
 #### <i>For registering yourself and expressing your interest for any of the Research/Project currently being performed under the club, kindly fill the [FORM](https://forms.office.com/Pages/ResponsePage.aspx?id=gcLuqKOqrk2sm5o5i5IV52PXxpsXCd9MoG8dFRYB16pUNkVMNElFU0k2UFdTOVZWR0NRUFdGQkM0TC4u) (Only available for Northeastern University Students from any discipline)</i>
 
-####Please note Microsoft teams will be the mode of communication for all researches. 
+#### Please note Microsoft teams will be the mode of communication for all researches. 
 Click on the below links to join the respective channels:
 
 'Model interpretability' and 'Greifer AutoRL' (Headed and Co-headed by Abhishek Maheshwarappa) 
