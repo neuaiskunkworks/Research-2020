@@ -26,10 +26,13 @@ Click on the below links to join the respective channels:
 
 [Auto RL Teams](https://teams.microsoft.com/l/channel/19%3af1f41493b7dd4d7fa1dc4f809d9b5604%40thread.tacv2/Auto-Reinforcement-Learning?groupId=a3f4c2cc-bf92-475f-80b4-dd4c27aa5cd1&tenantId=a8eec281-aaa3-4dae-ac9b-9a398b9215e7)
 
+
 'Causal Inference' (Headed by Abhishek Dabas)
+
 [Causal Inference](https://teams.microsoft.com/l/team/19%3a9063a758b4774908b7bb74a0514818df%40thread.tacv2/conversations?groupId=a3f4c2cc-bf92-475f-80b4-dd4c27aa5cd1&tenantId=a8eec281-aaa3-4dae-ac9b-9a398b9215e7)
 
 'Gauguin' (Headed by Prabhu Subramanian)
+
 [Gauguin](https://teams.microsoft.com/l/channel/19%3a35bc6c53aeb04c579ff572974e86be9d%40thread.tacv2/Gauguin%2520AutoViz?groupId=a3f4c2cc-bf92-475f-80b4-dd4c27aa5cd1&tenantId=a8eec281-aaa3-4dae-ac9b-9a398b9215e7)
 
 
