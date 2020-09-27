@@ -1,5 +1,5 @@
 # Research-2020
-#### Current Research under AI Skunkworks are defined and explained in the above PDFs. You can also have a look at the introductory videos on these topics [<img align="left" alt="prabhuSub | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/youtube.svg" />][youtube](https://www.youtube.com/channel/UCSqJ-CN73dOEinvRvlYc2Cw). Kindly refer the same and feel free to connect with the respective coordinators mentioned in the document.
+#### Current Research under AI Skunkworks are defined and explained in the above PDFs. You can also have a look at the introductory videos on these topics [here](https://www.youtube.com/channel/UCSqJ-CN73dOEinvRvlYc2Cw). Kindly refer the same and feel free to connect with the respective coordinators mentioned in the document.
 
 
 - [Causal Inference.pdf](https://github.com/neuaiskunkworks/Research-2020/blob/master/Causal%20Inference.pdf)
